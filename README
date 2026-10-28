@@ -1,0 +1,2 @@
+api to remove background of an image given description of item
+ex: given 'brown jacket' and an image, it pulls out the brown jacket and removes background
