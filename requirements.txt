@@ -1,0 +1,6 @@
+torch>=2.2,<2.6
+# Newer transformers releases need torch >= 2.6; this range works with torch 2.2 (tested on 4.47.1)
+transformers>=4.44,<4.48
+scipy
+numpy<2
+pillow
